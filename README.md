@@ -6,11 +6,11 @@ While the popular and powerful [gdalwarp](https://gdal.org/programs/gdalwarp.htm
 
 On the other hand, gwarp++ detects the occluded portions of the ground and creates a true ortho image. The occluded portions are marked with a no-data value. 
 
-If you use gwarp++ in your research, **we would appreciate your citing our [paper](https://arxiv.org/abs/2008.10271).**
+If you use gwarp++ in your research, **we would appreciate your citing our [paper](https://arxiv.org/abs/2008.10271v2).**
 
 ```bash
 @misc{comandur2020semantic,
-      title={Semantic Labeling of Large-Area Geographic Regions Using Multi-View and Multi-Date Satellite Images, and Noisy OSM Training Labels}, 
+      title={Semantic Labeling of Large-Area Geographic Regions Using Multi-View and Multi-Date Satellite Images and Noisy OSM Training Labels},
       author={Bharath Comandur and Avinash C. Kak},
       year={2020},
       eprint={2008.10271},
