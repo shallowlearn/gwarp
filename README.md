@@ -9,6 +9,7 @@ On the other hand, gwarp++ detects the occluded portions of the ground and creat
 If you use gwarp++ in your research, **we would appreciate your citing our [paper](https://arxiv.org/abs/2008.10271v2).**
 
 ```bash
+<!--
 @misc{comandur2020semantic,
       title={Semantic Labeling of Large-Area Geographic Regions Using Multi-View and Multi-Date Satellite Images and Noisy OSM Training Labels},
       author={Bharath Comandur and Avinash C. Kak},
@@ -17,6 +18,17 @@ If you use gwarp++ in your research, **we would appreciate your citing our [pape
       archivePrefix={arXiv},
       primaryClass={cs.CV}
 }
+-->
+
+@ARTICLE{9380895,
+  author={B. {Comandur} and A. {Kak}},
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
+  title={Semantic Labeling of Large-Area Geographic Regions Using Multi-View and Multi-Date Satellite Images and Noisy OSM Training Labels}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/JSTARS.2021.3066944}}
 ```
 
 For additional details regarding gwarp++, please see Sections 2.5 and 5.1.2 of the dissertation [here](https://hammer.figshare.com/articles/thesis/Semantic_Labeling_of_Large_Geographic_Areas_Using_Multi-Date_and_Multi-View_Satellite_Images_and_Noisy_OpenStreetMap_Labels/12739556).
