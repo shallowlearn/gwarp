@@ -6,19 +6,22 @@ While the popular and powerful [gdalwarp](https://gdal.org/programs/gdalwarp.htm
 
 On the other hand, gwarp++ detects the occluded portions of the ground and creates a true ortho image. The occluded portions are marked with a no-data value. 
 
-If you use gwarp++ in your research, **we would appreciate your citing our [paper](https://arxiv.org/abs/2008.10271v2).**
+If you use gwarp++ in your research, **we would appreciate your citing our [paper](https://arxiv.org/abs/2008.10271).**
 
 ```bash
 
-@ARTICLE{9380895,
-  author={B. {Comandur} and A. {Kak}},
-  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
-  title={Semantic Labeling of Large-Area Geographic Regions Using Multi-View and Multi-Date Satellite Images and Noisy OSM Training Labels}, 
-  year={2021},
-  volume={},
-  number={},
-  pages={1-1},
-  doi={10.1109/JSTARS.2021.3066944}}
+@article{Comandur_2021,
+   title={Semantic Labeling of Large-Area Geographic Regions Using Multi-View and Multi-Date Satellite Images and Noisy OSM Training Labels},
+   ISSN={2151-1535},
+   url={http://dx.doi.org/10.1109/JSTARS.2021.3066944},
+   DOI={10.1109/jstars.2021.3066944},
+   journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
+   publisher={Institute of Electrical and Electronics Engineers (IEEE)},
+   author={Comandur, Bharath and Kak, Avinash},
+   year={2021},
+   pages={1–1}
+}
+
 ```
 
 For additional details regarding gwarp++, please see Sections 2.5 and 5.1.2 of the dissertation [here](https://hammer.figshare.com/articles/thesis/Semantic_Labeling_of_Large_Geographic_Areas_Using_Multi-Date_and_Multi-View_Satellite_Images_and_Noisy_OpenStreetMap_Labels/12739556).
