@@ -1,4 +1,4 @@
-# gwarp++
+# gwarp++ - True orthorectification of satellite images using DSMs (Digital Surface Models) and RPCs (Rational Polynomial Coefficients)
 
 Software to create true ortho photos of satellite images using rational polynomial coefficients (RPCs) and Digital Surface Models (DSMs).
 
