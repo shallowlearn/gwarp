@@ -6,7 +6,7 @@ While the popular and powerful [gdalwarp](https://gdal.org/programs/gdalwarp.htm
 
 On the other hand, gwarp++ detects the occluded portions of the ground and creates a true ortho image. The occluded portions are marked with a no-data value. 
 
-If you use gwarp++ in your research, **we would appreciate your citing our [paper](https://arxiv.org/abs/2008.10271).**
+If you use gwarp++ in your research, **we would appreciate your citing our [paper](https://ieeexplore.ieee.org/document/9380895). You can also find a copy on [arXiv](https://arxiv.org/abs/2008.10271).**
 
 ```bash
 
